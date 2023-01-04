@@ -1,0 +1,22 @@
++: The addition operator is used to find the sum of numbers.
+-: The subtraction operator is used to find the difference between two numbers
+*: The multiplication operator is used to find the product of two numbers.
+/: The division operator is used to divide two numbers.
+
+%: The remainder operator is used to find the remainder of a division performed.
+
+40 % 4; // => 0
+-11 % 4; // => -3
+
+**: The exponentiation operator is used to raise a number to a power.
+
+4 ** 3; // => 64
+4 ** 1 / 2; // => 2
+
+x += y is same as x = x + y. Often, this is used with a number instead of a variable y. 
+
+let x = 5;
+x += 25; // x is now 30
+
+let y = 31;
+y %= 3; // y is now 1
