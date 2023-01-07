@@ -1,0 +1,11 @@
+switch (x) {
+  case option1:
+    // code that is executed when "x === option1" is true
+    break;
+  case option2:
+    // code that is executed when "x === option2" is true
+    break;
+  default:
+    // code that is executed when x does not equal any of the options
+}
+
